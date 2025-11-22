@@ -1,6 +1,6 @@
 #Ad Event Intelligence Pipeline 
 
-#Project #1 simulated ad tracking with accessible and manipulatable datasets
+#Project 1 - simulated ad tracking with accessible and manipulatable datasets
 
 # Ad Event Intelligence Pipeline
 
